@@ -38,16 +38,13 @@ Este arquivo contém a lógica para gerar um número aleatório entre os valores
 
 ## 📸 Screenshots
 
-Adicione algumas capturas de tela do seu projeto para dar uma visão geral visual da interface.
+<img src= "https://raw.githubusercontent.com/GMarin89/Sorteador-de-N-meros/refs/heads/main/assets/print_tela.jpg"/>
 
 ---
 
 ## 📬 Contato
 
-Para mais informações ou dúvidas, entre em contato pelo [e-mail](mailto:seuemail@example.com).
 
----
 
-Espero que este README detalhado e dinâmico ajude a documentar e apresentar seu projeto de maneira clara e atraente! 🚀✨
 
-Se precisar de mais alguma coisa, estou aqui para ajudar! 😉
+
