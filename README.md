@@ -45,6 +45,8 @@ Este arquivo contém a lógica para gerar um número aleatório entre os valores
 ## 📬 Contato
 
 
+📧 E-mail: wesley.giuliano@gmail.com
+
 
 
 
