@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raffle Maker</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+
+    <img src="./assets/gif_dados.gif" />
+    <h1><b>Super Sorteador<b></b></h1>
+    <h2>Sortear um número</h2>
+
+
+    <div class="input-container">
+        <input placeholder="entre" class="input_min" type="number" />
+        <input placeholder="e" class="input_max" type="number" />
+    </div>
+
+    <div class="button_container">
+        <button id="sortearBtn" onclick="generateNumber()">Sortear</button>
+    </div>
+
+    <h3>Resultado Sorteado</h3>
+
+    <div class="resultado-container"> <input id="resultado" type="text" placeholder="Resultado" readonly />
+
+        <script src="./project.js"></script>
+
+</body>
+
+</html>
